@@ -1,1 +1,1 @@
-Worker: python ./src/bot.py
+worker python main.py
