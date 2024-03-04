@@ -658,4 +658,4 @@ async def botstop(ctx):
     return
 
 
-bot.run('ODg4ODI5MTE5NzcxNTkwNjk3.YUYYnw.LUcYJ2ojsl9SfkAjF_Qy66dicHM')
+bot.run('')
