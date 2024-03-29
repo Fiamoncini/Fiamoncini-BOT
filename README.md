@@ -37,7 +37,7 @@ Este comando mostra a fila de músicas que estão na lista de reprodução.
 - **!misturar**:  <br/>
 Este comando mistura aleatoriamente a fila de reprodução.
 
-- **!remove**: 
+- **!remove**: <br/>
 Este comando remove a música mais recentemente adicionada à fila de reprodução.
 
 - **!loop**:  <br/>
