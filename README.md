@@ -16,7 +16,7 @@ Este comando limpa a fila de reprodução e faz com que o bot saia do canal de v
 - **!volume**:  <br/>
 Este comando permite ao usuário definir o volume do bot de 0 a 100%.
 
-- **!now**, !current ou !playing:  <br/>
+- **!now**, **!current** ou **!playing**:  <br/>
 Este comando mostra informações sobre a música que está sendo reproduzida no momento, como título, duração, quem solicitou a música, URL do vídeo, etc.
 
 - **!pause ou !pa**:  <br/>
